@@ -1,9 +1,9 @@
-# Тестовое задание
+# Test assignment | EigerX
 
-Для удобства все задания будут расположены на новых ветках
+For convenience, all assignments will be located on new branches
 
-### algorithms
+### Branches:
 
-### sysDesign
-
-### backend
+- algorithms ✔
+- sysDesign ✔
+- backend ❗

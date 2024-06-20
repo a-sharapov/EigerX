@@ -1,0 +1,1 @@
+- Do smoke tests related doc.
